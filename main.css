@@ -37,3 +37,11 @@ body {
   background-image: linear-gradient(white, pink, purple);
   height: 540px
 }
+
+.resultSection {
+  height: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 35px;
+}
